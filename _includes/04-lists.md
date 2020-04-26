@@ -1,0 +1,9 @@
+- video games
+  - fifa
+  - injustice
+  - god of war
+  - call of duty
+- gadgets  
+- cooking
+- chatting
+- studying
