@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- video games
+  - fifa
+  - injustice
+  - god of war
+  - call of duty
+- gadgets  
+- cooking
+- chatting
+- studying
